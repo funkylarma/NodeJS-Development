@@ -1,0 +1,38 @@
+[Tue, 27 Mar 2012 11:42:11 GMT] INFO Server starting with config: {
+  "environment": "development",
+  "workers": 1,
+  "port": 4000,
+  "debug": true,
+  "rotateWorkers": false,
+  "rotationWindow": 7200000,
+  "rotationTimeout": 300000,
+  "logDir": "c:\\wamp\\www\\NodeJSDevelopment\\todo_app\\log",
+  "gracefulShutdownTimeout": 30000,
+  "heartbeatInterval": 5000,
+  "heartbeatWindow": 20000,
+  "staticFilePath": "c:\\wamp\\www\\NodeJSDevelopment\\todo_app\\public",
+  "sessions": {
+    "store": "memory",
+    "key": "sid",
+    "expiry": 1209600
+  },
+  "cookieSessionKey": "sdata",
+  "metrics": null,
+  "i18n": {
+    "defaultLocale": "en-us",
+    "loadPaths": [
+      "c:\\wamp\\www\\NodeJSDevelopment\\todo_app\\config\\locales"
+    ]
+  },
+  "ssl": null,
+  "model": {
+    "useTimestamps": false,
+    "forceCamel": true
+  },
+  "detailedErrors": true,
+  "hostname": null
+}
+[Tue, 27 Mar 2012 11:42:11 GMT] INFO Creating 1 worker process.
+[Tue, 27 Mar 2012 11:42:11 GMT] INFO Server worker running in development on port 4000 with a PID of: 704
+[Tue, 27 Mar 2012 11:42:11 GMT] DEBUG LOGGING STARTED ============================================
+[Tue, 27 Mar 2012 11:42:11 GMT] DEBUG ============================================================
